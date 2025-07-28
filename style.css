@@ -1,0 +1,14 @@
+body{
+    background-color: aquamarine;
+}
+
+h1{
+    color: blueviolet;
+    font-size: 30px;
+}
+
+p{
+    color: black;
+    font-size: 14px;
+    text-size-adjust: center;
+}
